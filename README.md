@@ -1,6 +1,6 @@
 # 📊 Blinkit Sales Analysis Dashboard
 
-![Blinkit Dashboard](dashboard.png)
+![Blinkit Dashboard](Dashboard.png)
 
 This project is an interactive Power BI dashboard created to analyze Blinkit grocery sales data and generate meaningful business insights.
 
